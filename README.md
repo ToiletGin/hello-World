@@ -1,2 +1,2 @@
 # hello-World
-my first rwpository to test github
+my first repository to test github
